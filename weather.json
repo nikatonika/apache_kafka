@@ -1,0 +1,115 @@
+{
+    "weather": [
+        {
+            "id": 1,
+            "city": "Москва",
+            "temperature": -4.56,
+            "condition": "пасмурно",
+            "timestamp": "2024-12-17 19:26:08"
+        },
+        {
+            "id": 2,
+            "city": "Красноярск",
+            "temperature": -21.78,
+            "condition": "ясно",
+            "timestamp": "2024-12-17 19:26:08"
+        },
+        {
+            "id": 3,
+            "city": "Владивосток",
+            "temperature": -10.41,
+            "condition": "пасмурно",
+            "timestamp": "2024-12-17 19:26:08"
+        },
+        {
+            "id": 4,
+            "city": "Сочи",
+            "temperature": 6.05,
+            "condition": "небольшой дождь",
+            "timestamp": "2024-12-17 19:26:08"
+        },
+        {
+            "id": 5,
+            "city": "Санкт-Петербург",
+            "temperature": -12.19,
+            "condition": "облачно с прояснениями",
+            "timestamp": "2024-12-17 19:26:08"
+        },
+        {
+            "id": 6,
+            "city": "Москва",
+            "temperature": -4.56,
+            "condition": "пасмурно",
+            "timestamp": "2024-12-17 19:27:45"
+        },
+        {
+            "id": 7,
+            "city": "Санкт-Петербург",
+            "temperature": -12.19,
+            "condition": "облачно с прояснениями",
+            "timestamp": "2024-12-17 19:27:46"
+        },
+        {
+            "id": 8,
+            "city": "Красноярск",
+            "temperature": -21.78,
+            "condition": "ясно",
+            "timestamp": "2024-12-17 19:27:48"
+        },
+        {
+            "id": 9,
+            "city": "Сочи",
+            "temperature": 6.05,
+            "condition": "небольшой дождь",
+            "timestamp": "2024-12-17 19:27:49"
+        },
+        {
+            "id": 10,
+            "city": "Владивосток",
+            "temperature": -10.41,
+            "condition": "пасмурно",
+            "timestamp": "2024-12-17 19:27:50"
+        },
+        {
+            "id": 11,
+            "city": "Москва",
+            "temperature": -4.56,
+            "condition": "пасмурно",
+            "timestamp": "2024-12-17 19:32:52"
+        },
+        {
+            "id": 12,
+            "city": "Санкт-Петербург",
+            "temperature": -12.19,
+            "condition": "облачно с прояснениями",
+            "timestamp": "2024-12-17 19:32:53"
+        },
+        {
+            "id": 13,
+            "city": "Красноярск",
+            "temperature": -21.78,
+            "condition": "ясно",
+            "timestamp": "2024-12-17 19:32:54"
+        },
+        {
+            "id": 14,
+            "city": "Сочи",
+            "temperature": 6.05,
+            "condition": "небольшой дождь",
+            "timestamp": "2024-12-17 19:32:56"
+        },
+        {
+            "id": 15,
+            "city": "Владивосток",
+            "temperature": -10.41,
+            "condition": "пасмурно",
+            "timestamp": "2024-12-17 19:32:57"
+        }
+    ],
+    "sqlite_sequence": [
+        {
+            "name": "weather",
+            "seq": 15
+        }
+    ]
+}
